@@ -14,11 +14,11 @@
 ### 🧑‍💼 About Me
 
 - 👨‍💻 I'm currently working as a **Software Engineer** at **Magarite Tech, New Delhi**
-- 🛒 Currently building a full-stack **e-commerce web application**
-- 🔥 Passionate about **clean UI/UX**, **backend architecture**, and **real-world products**
+- 🛒 Currently building a full-stack **E-Commerce web application**
+- 🔥 Passionate about **clean Front UI**, **backend architecture**, and **real-world products**
 - 💬 Ask me about: `React`, `Node.js`, `Express`, `MongoDB`, `Tailwind CSS`, `MySQL`, `TypeScript`
-- 📫 Reach me at:(#) **mdgmfaizy@gmail.com**
-- 📄 [My Resume](#) https://drive.google.com/file/d/1uoDkn3pQ1jx0lp9A7pEPxhYFQ81D7-Q5/view?usp=sharing
+- 📫 Reach me at: [**mdgmfaizy@gmail.com**](mailto:mdgmfaizy@gmail.com)
+- 📄 [My Resume](https://drive.google.com/file/d/1uoDkn3pQ1jx0lp9A7pEPxhYFQ81D7-Q5/view?usp=sharing)
 - 🎯 Goal: To become a top-notch architect & product builder in the tech world
 
 ---
@@ -40,6 +40,20 @@
 - ✅ Backend Developer (Node.js, Express, MongoDB)
 - ✅ Software Engineer
 - ✅ Junior/Mid-Level Developer
+
+---
+
+### 💼 Experience
+
+- 🏢 **Software Engineer** @ Magarite Tech, New Delhi  
+  📅 Nov 2024 – Present  
+  🚀 Working on a full-stack **e-commerce web application**
+
+- 💻 **Full Stack Developer Intern** @ SS Infotech  
+  📅 Mar 2024 – Sep 2024  
+  🔧 Built and deployed a full-stack application for **Almanac Social Welfare** using React, Node.js, and MongoDB.  
+  • Created RESTful APIs and connected MongoDB for dynamic data operations.  
+  • Collaborated with a team to deliver features aligned with client requirements.
 
 ---
 
