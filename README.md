@@ -17,7 +17,7 @@
 - 🛒 Currently building a full-stack **e-commerce web application**
 - 🔥 Passionate about **clean UI/UX**, **backend architecture**, and **real-world products**
 - 💬 Ask me about: `React`, `Node.js`, `Express`, `MongoDB`, `Tailwind CSS`, `MySQL`, `TypeScript`
-- 📫 Reach me at: **mdgmfaizy@gmail.com**
+- 📫 Reach me at:(#) **mdgmfaizy@gmail.com**
 - 📄 [My Resume](#) https://drive.google.com/file/d/1uoDkn3pQ1jx0lp9A7pEPxhYFQ81D7-Q5/view?usp=sharing
 - 🎯 Goal: To become a top-notch architect & product builder in the tech world
 
