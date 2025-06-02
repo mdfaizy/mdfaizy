@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h1>
 
-<h3 align="center">🚀 Software Engineer @ Magarite Tech | Full Stack Developer | Font End Developer</h3>
+<h3 align="center">🚀 Software Engineer @ Magarita Tech | Full Stack Developer | Font End Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Full+Stack+Web+Apps;React+%7C+Node+%7C+MongoDB+Specialist;Creating+Pixel+Perfect+UIs;With+Tailwind+%2B+Bootstrap" />
@@ -13,8 +13,8 @@
 
 ### 🧑‍💼 About Me
 
-- 👨‍💻 I'm currently working as a **Software Engineer** at **Magarite Tech, New Delhi**
-- 🛒 Currently building a full-stack **E-Commerce web application**
+- 👨‍💻 I'm currently working as a **Software Engineer** at **Magarita Tech, New Delhi**
+- 🛒 Currently building a full-stack **E-Commerce Web Application**
 - 🔥 Passionate about **clean Front UI**, **backend architecture**, and **real-world products**
 - 💬 Ask me about: `React`, `Node.js`, `Express`, `MongoDB`, `Tailwind CSS`, `MySQL`, `TypeScript`
 - 📫 Reach me at: [**mdgmfaizy@gmail.com**](mailto:mdgmfaizy@gmail.com)
@@ -45,7 +45,7 @@
 
 ### 💼 Experience
 
-- 🏢 **Software Engineer** @ Magarite Tech, New Delhi  
+- 🏢 **Software Engineer** @ Magarita Tech, New Delhi  
   📅 Nov 2024 – Present  
   🚀 Working on a full-stack **e-commerce web application**
 
