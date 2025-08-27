@@ -18,7 +18,7 @@
 - 🔥 Passionate about **clean Front UI**, **backend architecture**, and **real-world products**
 - 💬 Ask me about: `React`, `Node.js`, `Express`, `MongoDB`, `Tailwind CSS`, `MySQL`, `TypeScript`
 - 📫 Reach me at: [**mdgmfaizy@gmail.com**](mailto:mdgmfaizy@gmail.com)
-- 📄 [My Resume](https://drive.google.com/file/d/1uoDkn3pQ1jx0lp9A7pEPxhYFQ81D7-Q5/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/146DOcs-j7019DIhht3rhJ_PjC-r5jXeC/view?usp=drive_link)
 - 🎯 Goal: To become a top-notch architect & product builder in the tech world
 
 ---
