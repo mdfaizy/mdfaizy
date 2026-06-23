@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h1>
 
-<h3 align="center">🚀 Software Engineer @ Magarita Tech | Full Stack Developer | Font End Developer</h3>
+<h3 align="center">🚀 Software Engineer @ Magarita Tech | Software Engineer | Full Stack MERN Developer | Frontend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Full+Stack+Web+Apps;React+%7C+Node+%7C+MongoDB+Specialist;Creating+Pixel+Perfect+UIs;With+Tailwind+%2B+Bootstrap" />
@@ -16,9 +16,9 @@
 - 👨‍💻 I'm currently working as a **Software Engineer** at **Magarita Tech, New Delhi**
 - 🛒 Currently building a full-stack **E-Commerce Web Application**
 - 🔥 Passionate about **clean Front UI**, **backend architecture**, and **real-world products**
-- 💬 Ask me about: `React`, `Node.js`, `Express`, `MongoDB`, `Tailwind CSS`, `MySQL`, `TypeScript`
+- 💬 Ask me about: `React.Js`, `Node.Js`, `Next.Js`, `Express.Js`, `MongoDB.Js`, `MySql`, `Tailwind CSS`, `MySQL`, `TypeScript`, `GitHub`, `AWS`
 - 📫 Reach me at: [**mdgmfaizy@gmail.com**](mailto:mdgmfaizy@gmail.com)
-- 📄 [My Resume](https://drive.google.com/file/d/146DOcs-j7019DIhht3rhJ_PjC-r5jXeC/view?usp=drive_link)
+- 📄 [My Resume](https://drive.google.com/file/d/18sUDLVHt9MB_HX6pu4tyeQ_h-xZUzUGK/view?usp=drive_link)
 - 🎯 Goal: To become a top-notch architect & product builder in the tech world
 
 ---
@@ -47,7 +47,7 @@
 
 - 🏢 **Software Engineer** @ Magarita Tech, New Delhi  
   📅 Nov 2024 – Present  
-  🚀 Working on a full-stack **e-commerce web application**
+  🚀 🚀 Building scalable E-Commerce and SaaS applications using React.js, Next.js, Node.js, TypeScript, Prisma ORM and MySQL**
 
 - 💻 **Full Stack Developer Intern** @ SS Infotech  
   📅 Mar 2024 – Sep 2024  
@@ -101,14 +101,14 @@
 </p>
 
 ---
-
 ### 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **🛒 E-Commerce Web App** | MERN + MySQL + TypeScript | Full-stack shopping platform |
-| **🎓 EdTech Platform** | React, Node, MongoDB | Learning management web app |
-| **📋 Student Admittance System** | MERN Stack | Admin dashboard with secure login |
-| **🍔 Food Delivery UI** | React + Swiggy API | Real-time restaurant listing UI |
+|----------|-----------|-------------|
+| 🎓 **School ERP SaaS Platform** | Next.js, Node.js, Prisma ORM, MySQL, TypeScript | Complete ERP with Admission, Attendance, Fee, Transport & RBAC |
+| 🛒 **E-Commerce Platform** | React.js, Node.js, MySQL, TypeScript | Product, Inventory, Orders, Authentication & Admin Dashboard |
+| 📋 **Student Admittance System** | MERN Stack, Redux Toolkit | Student admission workflow with secure authentication |
+| 🎓 **EdTech Platform** | React.js, Node.js, MongoDB | Learning management and course delivery platform |
+| 🍔 **Food Delivery App** | React.js, Swiggy API | Restaurant discovery, search and real-time listings |
 
 ---
